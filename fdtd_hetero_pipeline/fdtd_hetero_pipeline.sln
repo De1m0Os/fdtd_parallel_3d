@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37710.0 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "fdtd_hetero_pipeline", "fdtd_hetero_pipeline.vcxproj", "{386AB397-2C53-323F-1449-32266391378A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{386AB397-2C53-323F-1449-32266391378A}.Debug|x64.ActiveCfg = Debug|x64
+		{386AB397-2C53-323F-1449-32266391378A}.Debug|x64.Build.0 = Debug|x64
+		{386AB397-2C53-323F-1449-32266391378A}.Release|x64.ActiveCfg = Release|x64
+		{386AB397-2C53-323F-1449-32266391378A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C9141C0C-3414-4500-8BBF-36B5EAB682A3}
+	EndGlobalSection
+EndGlobal

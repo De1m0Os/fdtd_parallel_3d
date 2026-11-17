@@ -1,0 +1,5 @@
+﻿  Compiling CUDA source file kernel.cu...
+  
+  C:\C++\fdtd_cuda>"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.5\bin\nvcc.exe" -gencode=arch=compute_75,code=\"sm_75,compute_75\" --use-local-env -ccbin "C:\Program Files\Microsoft Visual Studio\2022\Professional\VC\Tools\MSVC\14.44.35207\bin\HostX64\x64" -x cu   -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.5\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.5\include" -I"C:\Users\azhir\vcpkg\installed\x64-windows\include" -I"C:\Program Files\NVIDIA GPU Computing Toolkit\CUDA\v13.5\include"  -G   --keep-dir fdtd_cuda\x64\Debug  -maxrregcount=0     --machine 64 --compile  -g  -DWIN32 -DWIN64 -D_DEBUG -D_CONSOLE -D_MBCS -Xcompiler "/EHsc /W3 /nologo /Od /FS /Zi /RTC1 /MDd " -Xcompiler "/Fdfdtd_cuda\x64\Debug\vc143.pdb" -o C:\C++\fdtd_cuda\fdtd_cuda\x64\Debug\kernel.cu.obj "C:\C++\fdtd_cuda\kernel.cu" 
+  kernel.cu
+  fdtd_cuda.vcxproj -> C:\C++\fdtd_cuda\x64\Debug\fdtd_cuda.exe
